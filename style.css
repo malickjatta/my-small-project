@@ -1,0 +1,13 @@
+h1 { 
+color: blue;
+}
+
+img {
+    width: 200px;
+}
+#intro {
+font-weight: bold;
+}
+p.special {
+border:1px solid magenta;
+}
